@@ -42,7 +42,11 @@ class GppCrmApp extends StatelessWidget {
         displayLarge: GoogleFonts.poppins(fontWeight: FontWeight.bold, color: const Color(0xFF0F172A)),
         titleLarge: GoogleFonts.poppins(fontWeight: FontWeight.w600, color: const Color(0xFF1E293B)),
       ),
+<<<<<<< HEAD
       cardTheme: CardThemeData(
+=======
+      cardTheme: CardTheme(
+>>>>>>> b78d89c6fad8e275100d79065438d3a22898617b
         elevation: 0,
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
         color: Colors.white,
